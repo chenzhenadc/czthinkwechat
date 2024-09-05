@@ -26,5 +26,6 @@
         "think-config": {
           "wechat": "src/config.php"
         }
-      }
+      },
+    "version":"1.0.0"
 }
